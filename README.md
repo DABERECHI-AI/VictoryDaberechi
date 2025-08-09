@@ -3,7 +3,7 @@ My GitHub Profile README
 # Hi there, I'm Victory 👋🏾  
 
 💻 Aspiring Machine Learning Engineer 
-📍 Nigeria | #LearningInPublic  
+📍 Nigeria | #LearningInPublic
 
 
 
